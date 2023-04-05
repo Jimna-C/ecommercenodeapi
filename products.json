@@ -1,0 +1,52 @@
+[
+    {
+        "id":1,
+        "image":"https://m.media-amazon.com/images/I/51j2hlRn0LL._SX679_.jpg",
+        "heading":"pTron Bassbuds Fute 5.1",
+        "price":"699",
+        "description":"True Wireless Bluetooth Headphones(TWS) with immersive stereo sound, deep bass, smart touch control & 32 Hours of Total Playtime with the charging case.Advanced Bluetooth v5.1 with Strong 10M Wireless Connectivity; 13MM Large Dynamic Driver; 1-Step Pairing; Quick Connect; Auto Re-connect; Widely Compatible with Bluetooth Enabled Devices",
+        "categoryId":"1"
+    },
+    {
+        "id":2,
+        "image":"https://m.media-amazon.com/images/I/61Q0R5cdxWL._SX425_.jpg",
+        "heading":"Noise ColorFit Pulse Grand Smart Watch",
+        "price":"1199",
+        "description":"Sharp and bright display: The 1.69’’ TFT display with 240*280px and 550 nits brightness ensures visual treat every time you look at the watch.Tru Sync: Experience fast and stable connectivity with low power consumption.Utility features: Use the utility features at your disposal and become more productive - get hand wash reminders, idle alert and drink water reminder, weather forecast, set alarms and more.Noise Health Suite: Lead a better life with the battery of wellness features available in Noise Health Suite.",
+        "categoryId":"2"
+    },
+    {
+        "id":3,
+        "image":"https://m.media-amazon.com/images/I/61gGtqfZFlL._SX425_.jpg",
+        "heading":"Acer Aspire 5 Gaming Laptop",
+        "price":"61990",
+        "description":"Acer Aspire 5 Gaming laptop is powered by the latest 12th Gen Intel Core i7 processor consisting of 12 cores for multitasking and productivity.;RTX It's On : NVIDIA GeForce RTX 2050 - 4G-GDDR6 laptops deliver ray tracing and cutting-edge AI features. The RTX 2050 also works seamlessly with NVIDIA Optimus technology to give you the perfect balance between long battery life and optimum performance. Over 150 top games and applications use RTX to deliver realistic graphics or cutting-edge new AI features like NVIDIA DLSS and NVIDIA Broadcast. RTX is the new standard.",
+        "categoryId":"3"
+    },
+    {
+        "id":4,
+        "image":"https://m.media-amazon.com/images/I/51Xw3Xho-EL._SX425_.jpg",
+        "heading":"D-Link DIR-X1560 AX 1500",
+        "price":"4862",
+        "description":"AX 1500 Mbps WAVE 2 Dual band wireless router with 4 high gain Omni Antenna;802.11 a/b/g/n/ac/ax standards with speed of 300 Mbps on 2.4Ghz & 1200 Mbps on 5Ghz.Gigabit Ports -- One Gigabit WAN & Four Gigabit LAN ports for high speed wired connectivity.;4 simultaneous streams, 1024 QAM and OFDMA for devicedense smart and connected homes",
+        "categoryId":"6"
+    },
+    {
+        "id":5,
+        "image":"https://m.media-amazon.com/images/I/7180ZAZmERL._SX522_.jpg",
+        "heading":"SanDisk Ultra® microSDXC™ UHS-I Card",
+        "price":"479",
+        "description":"Save time with card offload speeds of up to 200MB/s* powered by SanDisk QuickFlow Technology.Capture fast action photos or shoot 4K UHD video with write speeds of up to 90MB/s.* The SanDisk Extreme PRO microSD UHS-I Card lets you shoot more, fast.",
+        "categoryId":"5"
+    },
+    {
+        "id":6,
+        "image":"https://m.media-amazon.com/images/I/71y1TJbygLL._SX425_.jpg",
+        "heading":"Juârez Acoustic Guitar",
+        "price":"3011",
+        "description":"Black Glossy Finish, Number of Frets: 18, Acoustic Guitar with strap, Bag, Strings and 2 Picks.Great looks with an innovative design to produce good quality sound.Finger board: Linden Wood, Fretboard - Ebony Wood, Size: 38 inches, Cutaway.Included components: Acoustic Guitar with strap, Bag, Strings and 2 Picks.Linden Binding and Full Wood Construction with Geared Tuning, Wood Frame and Steel Strings",
+        "categoryId":"7"
+    }
+   
+]
+

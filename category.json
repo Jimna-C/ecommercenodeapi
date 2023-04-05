@@ -1,0 +1,40 @@
+[
+    {
+        "id":1,
+        "image":"https://m.media-amazon.com/images/G/31/img21/CEPC/Electronics/Revamp/SBC/xcm_banners_02_sbc_v1_564x564_in-en._CB657839327_.jpg",
+        "heading":"Headphones"
+
+    },
+    {
+        "id":2,
+        "image":"https://m.media-amazon.com/images/G/31/img21/CEPC/Electronics/Revamp/xcm_banners_01_feb22_564x564_in-en._CB628916123_.jpg",
+        "heading":"Fitness trackers & Smartwatches"
+    },
+    {
+        "id":3,
+        "image":"https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ref_=nav_cs_electronics",
+        "heading":"Computer accessories"
+    },
+    {
+        "id":4,
+        "image":"https://m.media-amazon.com/images/G/31/img21/CEPC/Electronics/Revamp/SBC/xcm_banners_13_sbc_v1_564x564_in-en._CB657839269_.jpg",
+        "heading":"Pen drives"
+    },
+    {
+        "id":5,
+        "image":"https://m.media-amazon.com/images/G/31/img21/CEPC/Electronics/Revamp/xcm_banners_01_feb_11_564x564_in-en._CB628698186_.jpg",
+        "heading":"Memory cards"
+    },
+    {
+        "id":6,
+        "image":"https://m.media-amazon.com/images/G/31/img21/CEPC/Electronics/Revamp/xcm_banners_01_feb1_564x564_in-en._CB628696172_.jpg",
+        "heading":"Routers & Networking"
+    },
+    {
+        "id":7,
+        "image":"https://m.media-amazon.com/images/G/31/img21/CEPC/Electronics/Revamp/SBC/xcm_banners_18_sbc_v1_564x564_in-en._CB657839292_.jpg",
+        "heading":"Musical instruments"
+    }
+   
+]
+

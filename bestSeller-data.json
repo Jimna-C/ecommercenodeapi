@@ -1,0 +1,46 @@
+[
+    {
+        "id":1,
+        "image":"https://m.media-amazon.com/images/I/51j2hlRn0LL._SX679_.jpg",
+        "heading":"pTron Bassbuds Fute 5.1",
+        "price":"699",
+        "category":"Headphones"
+    },
+    {
+        "id":2,
+        "image":"https://m.media-amazon.com/images/I/61Q0R5cdxWL._SX425_.jpg",
+        "heading":"Noise ColorFit Pulse Grand Smart Watch",
+        "price":"1,199",
+        "category":"Fitness trackers & Smartwatches"
+    },
+    {
+        "id":3,
+        "image":"https://m.media-amazon.com/images/I/61gGtqfZFlL._SX425_.jpg",
+        "heading":"Acer Aspire 5 Gaming Laptop",
+        "price":"61,990",
+        "category":"Computer accessories"
+    },
+    {
+        "id":4,
+        "image":"https://m.media-amazon.com/images/I/51Xw3Xho-EL._SX425_.jpg",
+        "heading":"D-Link DIR-X1560 AX 1500",
+        "price":"4862",
+        "category":"Routers & Networking"
+    },
+    {
+        "id":5,
+        "image":"https://m.media-amazon.com/images/I/7180ZAZmERL._SX522_.jpg",
+        "heading":"SanDisk Ultra® microSDXC™ UHS-I Card",
+        "price":"479",
+        "category":"Memory cards"
+    },
+    {
+        "id":6,
+        "image":"https://m.media-amazon.com/images/I/71y1TJbygLL._SX425_.jpg",
+        "heading":"Juârez Acoustic Guitar",
+        "price":"3,011",
+        "category":"Musical instruments"
+    }
+   
+]
+
